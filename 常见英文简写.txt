@@ -25,3 +25,11 @@ OOP：Object Oriented Programming 面向对象编程
 ODBC：Open Database Connection Standard 开放数据库连接标准
 
 DNS：Domain Name System 域名系统
+
+
+
+
+
+
+
+
