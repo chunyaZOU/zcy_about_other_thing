@@ -1,0 +1,27 @@
+﻿tcp/ip: Transmission Control Protocol/Internet Protocol
+
+http: HyperText Transfer Protocol
+
+URI: Uniform Resource Identifier
+
+URL: Uniform Resource Locator
+
+缺省：即系统默认状态，意思与“默认”相同
+
+三次握手：
+SYN：Synchronous    ACK: Acknowledgement
+
+VR：VitualReality 虚拟现实
+AR：AugmentedReality 增强现实
+MR：MixedReality 混合现实
+
+OTA：online travel agent 在线旅行社
+     over the air 空中下载
+
+PHP：Hypertext Preprocessor 超文本预处理器
+
+OOP：Object Oriented Programming 面向对象编程
+
+ODBC：Open Database Connection Standard 开放数据库连接标准
+
+DNS：Domain Name System 域名系统
