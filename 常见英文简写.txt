@@ -26,7 +26,15 @@ ODBC：Open Database Connection Standard 开放数据库连接标准
 
 DNS：Domain Name System 域名系统
 
+RAM：random access memory 随机存储存储器
 
+ROM：read only memory 只读存储器
+
+ROM image：只读内存镜像（刷机既是将ROM image刷入只读存储器，很多定制系统玩家也会统一将定制系统称为 ROM。）
+
+IPC：Interprocesses communication 进程间通信
+
+AIDL：Android Interface Definition Language 接口描述语言
 
 
 
