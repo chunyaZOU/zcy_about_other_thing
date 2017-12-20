@@ -38,6 +38,6 @@ AIDL：Android Interface Definition Language 接口描述语言
 
 ORM：Object Relational Mapping 对象关系映射
 
+SKU：Stock Keeping Unit 库存量单位
 
-15617574280
 
